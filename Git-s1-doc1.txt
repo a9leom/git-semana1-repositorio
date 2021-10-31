@@ -1,1 +1,1 @@
-# Texto del documento 1.
+# Este texto del archivo 1 ha sido editado.
